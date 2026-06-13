@@ -1,9 +1,14 @@
 [
  {
   "date": "2026-06-13",
-  "green_now": 42.01833228577414,
-  "dense_now": 25.234443746071655,
-  "hotspots": 12,
-  "green_trend": 0.262
+  "slot": "07",
+  "title": "경북 산불 1년 후 회복",
+  "topic": "gyeongbuk-wildfire-2025"
+ },
+ {
+  "date": "2026-06-13",
+  "slot": "06",
+  "title": "서울 한강 일대 10년 변화",
+  "topic": "seoul-hangang"
  }
 ]
