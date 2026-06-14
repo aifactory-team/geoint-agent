@@ -30,4 +30,4 @@
 - [`insight_card.mp4`](videocards/insight_card.mp4)
 
 ---
-_AIFactory GEOINT Agent · 2026-06-14 06시 · Sentinel-2 (ESA)_
+_AssiWorks - GEOINT · 2026-06-14 06시 · Sentinel-2 (ESA)_

@@ -32,4 +32,4 @@
 - [`insight_nakdong_algae.mp4`](videocards/insight_nakdong_algae.mp4)
 
 ---
-_AIFactory GEOINT Agent · 2026-06-13 19시 · Sentinel-2 (ESA)_
+_AssiWorks - GEOINT · 2026-06-13 19시 · Sentinel-2 (ESA)_
